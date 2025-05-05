@@ -1,4 +1,4 @@
-# To-Do List Web App
+# To-Do List
 
 A simple and responsive to-do list web app built using React.js and Vite. It allows users to add, mark, and delete tasks in an intuitive interface.
 
