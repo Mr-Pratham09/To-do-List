@@ -30,4 +30,4 @@ npm install
 npm run dev
 ```
 
-Now, you can open your browser and go to http://localhost:3000 to view the app!
+Now, you can open your browser and go to http://localhost:5173 to view the app!
