@@ -2,6 +2,10 @@
 
 A simple and responsive to-do list web app built using React.js and Vite. It allows users to add, mark, and delete tasks in an intuitive interface.
 
+## Live Demo
+
+[Live Demo](https://lovely-dusk-aac2e5.netlify.app/)
+
 ## Built With
 
 - React.js
